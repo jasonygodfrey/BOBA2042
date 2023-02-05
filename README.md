@@ -24,7 +24,7 @@ Building Relationships: Players can build relationships with customers, supplier
 
 Business Management: Players must manage their finances, upgrade their equipment, and expand their cafe to attract more customers and compete with other boba cafes. The economy is constantly changing, and players must adapt to stay ahead of their competition.
 Political Intrigue: The government is always watching, and players must navigate the dangerous world of political intrigue to stay in business. Players can choose to support or resist the authorities, and their choices will affect their reputation, safety, and future.
-Cute pink purple neon hack and slash combat 8bit sword yakuza top-down japanese dystopian game boba drink spell game concept art 8-bit pixel rpg katana sword. Step into the 8-bit world of BOBAボBA2042, where the neon streets are alive with danger and the only comfort is a cup of boba. As the owner of a rebel boba cafe, you'll wield your neon katana and cast boba spells in epic 8-bit hack and slash battles against rival gangs and corrupt authorities. Master the art of boba mixing, build relationships, manage your finances, and navigate political intrigue to keep your cafe running. Get ready to experience the thrill of 8-bit rebellion and survival in BOBA2042
+
 
 
 ![rensuki_cute_pink_purple_neon_top-down_combat_japanese_dystopia_dc0654a6-e207-4558-8e9c-af004e207755](https://user-images.githubusercontent.com/83245646/216840506-79479821-5b06-4ea2-ae33-61749accce1c.png)
