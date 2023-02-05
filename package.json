@@ -1,0 +1,12 @@
+{
+    "name": "rmmz-game",
+    "main": "index.html",
+    "chromium-args": "--force-color-profile=srgb",
+    "window": {
+        "title": "BOBAボ2042",
+        "width": 900,
+        "height": 900,
+        "position": "center",
+        "icon": "icon/icon.png"
+    }
+}
